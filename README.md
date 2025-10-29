@@ -1,13 +1,13 @@
 # Mall Customer Segmentation using K-Means Clustering
 
-![K-Means Cluster Plot](httpsd://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/cluster_plot.png)
+![K-Means Cluster Plot](https://github.com/aman1578/Customer-Segmentation-KMeans/blob/main/cluster_plot.png)
 
-## 📋 Project Overview
+##  Project Overview
 This project uses unsupervised machine learning to identify and profile distinct customer segments from a mall's dataset. By applying K-Means clustering, we can provide actionable insights for targeted marketing campaigns.
 
 ---
 
-## 🚀 Technologies & Libraries
+##  Technologies & Libraries
 * **Python**
 * **Pandas**: For data loading and manipulation.
 * **Scikit-learn**: For K-Means clustering and `StandardScaler`.
@@ -16,7 +16,7 @@ This project uses unsupervised machine learning to identify and profile distinct
 
 ---
 
-## 🛠️ Project Workflow
+##  Project Workflow
 
 1.  **Data Loading & Exploration:** Loaded the `Mall_Customers.csv` dataset.
 2.  **Feature Selection:** Selected the `Annual Income (k$)` and `Spending Score (1-100)` features for clustering.
@@ -27,7 +27,7 @@ This project uses unsupervised machine learning to identify and profile distinct
 
 ---
 
-## 📈 Results & Interpretation
+##  Results & Interpretation
 
 The analysis revealed 5 distinct customer segments:
 
